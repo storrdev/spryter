@@ -1,0 +1,10 @@
+main.app {
+  background: #212121;
+  display: flex;
+  height: 100%;
+  width: 100%;
+  padding: 2%; }
+  main.app .editor {
+    flex: 1; }
+
+/*# sourceMappingURL=App.css.map */
